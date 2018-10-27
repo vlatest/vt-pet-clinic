@@ -1,4 +1,4 @@
-package guru.springframework.vtpetclinic;
+package vtpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
